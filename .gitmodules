@@ -1,0 +1,6 @@
+[submodule "blog-front-angular"]
+	path = blog-front-angular
+	url = https://github.com/jpalomarbl/blog-front-angular
+[submodule "blog-back-angular"]
+	path = blog-back-angular
+	url = https://github.com/jpalomarbl/blog-back-angular
